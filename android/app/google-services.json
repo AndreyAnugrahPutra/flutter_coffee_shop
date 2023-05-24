@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "529825384215",
+    "project_id": "mycoffeeshop-bf177",
+    "storage_bucket": "mycoffeeshop-bf177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529825384215:android:a623b0e06ff379823b5952",
+        "android_client_info": {
+          "package_name": "com.example.flutter_coffee_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529825384215-v49jlltp9mkel9qlunmnnstqb4spg0oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGSvsw7oU8EY4xtsc4DByMx0he3O7wai8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529825384215-v49jlltp9mkel9qlunmnnstqb4spg0oo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "529825384215-r7uck6bpm2dk87pnpbvihn0epinqudv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myCoffeeShop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529825384215:android:5a08b54e5abdb8ce3b5952",
+        "android_client_info": {
+          "package_name": "com.example.my_coffee_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529825384215-v49jlltp9mkel9qlunmnnstqb4spg0oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGSvsw7oU8EY4xtsc4DByMx0he3O7wai8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529825384215-v49jlltp9mkel9qlunmnnstqb4spg0oo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "529825384215-r7uck6bpm2dk87pnpbvihn0epinqudv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myCoffeeShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
